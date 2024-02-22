@@ -41,12 +41,12 @@ Performs the conversion operation and outputs the converted text. If Add Spaces 
 
 - The programme has not made special treatment for polyphonic characters, and polyphonic characters are converted as they are.
 
-There is no GUI.
+- There is no GUI.
 
 ## Preview:
 
-拣 体 终  闻 的 童  因  惕  唤
-
-浙各狡本的躬能视姜用互蔬入的捡体钟蚊闻本忠的旱自剃患慰巨友香铜毒因禾升钓的骑它肠用旱自。如裹鹊时眉友渴剃贷的尝件自择驶用员自。
-
-美各背剃贷的自钱候君家医各空葛。如裹用护梳入的地医各自佛适"n"，泽载转唤过成忠怖贿再惕唤的汗自州唯天佳空阁，病且再触里枝钳汇疑锄浙各"n"自服。
+> 拣 体 终  闻 的 童  因  惕  唤
+> 
+> 浙各狡本的躬能视姜用互蔬入的捡体钟蚊闻本忠的旱自剃患慰巨友香铜毒因禾升钓的骑它肠用旱自。如裹鹊时眉友渴剃贷的尝件自择驶用员自。
+> 
+> 美各背剃贷的自钱候君家医各空葛。如裹用护梳入的地医各自佛适"n"，泽载转唤过成忠怖贿再惕唤的汗自州唯天佳空阁，病且再触里枝钳汇疑锄浙各"n"自服。
