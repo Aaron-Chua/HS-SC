@@ -5,12 +5,14 @@ The function of this script is to replace the Simplified Chinese characters ente
 Each replaced character is preceded and followed by a space. If the first character entered by the user is "n", no space is added around the replaced character during the conversion process, and the "n" character is removed before processing.
 
 
-## Usage of the script:
+## Usage:
 
-Please feel free to use it as you wish!
+    pip install pypinyin
+    pip install pyperclip
+    python HS-SC.py
 
 
-## The main steps of the script are as follows:
+## Script Explanation:
 
 ### Initialise the pinyin-to-character mapping: 
 
@@ -48,7 +50,3 @@ There is no GUI.
 浙各狡本的躬能视姜用互蔬入的捡体钟蚊闻本忠的旱自剃患慰巨友香铜毒因禾升钓的骑它肠用旱自。如裹鹊时眉友渴剃贷的尝件自择驶用员自。
 
 美各背剃贷的自钱候君家医各空葛。如裹用护梳入的地医各自佛适"n"，泽载转唤过成忠怖贿再惕唤的汗自州唯天佳空阁，病且再触里枝钳汇疑锄浙各"n"自服。
-
-绞本的用徒：
-
-顷字尤发辉奇用徒
