@@ -1,4 +1,5 @@
-# HS-SC
+# HS-SC: Homophonic Substitution in Simplified Chinese
+# 简体中文的同音替换
 
 The function of this script is to replace the Chinese characters in the Simplified Chinese text entered by the user with other common Chinese characters with the same pronunciation and tone. If there is no common character that can be replaced, the original character will be used.
 Each replaced character is preceded and followed by a space. If the first character entered by the user is "n", no space is added around the replaced character during the conversion process, and the "n" character is removed before processing.
